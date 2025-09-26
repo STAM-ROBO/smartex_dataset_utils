@@ -1,0 +1,4 @@
+opencv-python
+pycocotools
+numpy
+matplotlib
